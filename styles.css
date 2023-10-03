@@ -80,7 +80,7 @@ body {
     stroke: 10;
   }
   to {
-    fill: blue;
+    fill: #1b84db;
     stroke: none;
   }
 }
